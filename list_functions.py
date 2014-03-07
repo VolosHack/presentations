@@ -4,6 +4,8 @@ print "my_list is: "
 print my_list
 print
 
+print "my_list item count :", len(my_list), "\n"
+
 print "Deleting first item!"
 del(my_list[0])
 
