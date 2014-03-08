@@ -1,12 +1,6 @@
 # List-Set-Dict comprehension exercises
 # - - - - - - - - - - - - - - - - -
 
-# Write a comprehension whose values is the set consisting
-# of the squares of the first ten positive integers.
-def squares:
-    # write code here #
-    return
-
 # Write a comprehension whose values is the first 10 powers of 2
 def bin_power:
     # write code here #
