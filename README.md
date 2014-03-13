@@ -5,8 +5,9 @@ planned presentations
 ---
 
 
-ideas for presentations/ unconfirmed presentations
+presentation ideas and planning
 ---
+
 **Buffer Overflow Attacks & Protection Mechanisms**
 
 Michalis Spyrou
@@ -22,6 +23,7 @@ Nikos Sakellariou/Giorgos Gkougkoudis
 
 past presentations
 ---
+
 2014-03-08
 
 **Python: the awesome programming language**
