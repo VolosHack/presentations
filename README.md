@@ -1,4 +1,6 @@
 Python presentation
 ===
 
-Download the slides in [pdf](Python%20presentation.pdf) and [odp](Python%20presentation.odp) formats, see [examples](examples) of Python code and practice with the [workshop](workshop) problems.
+You can download all the files in this repository using the button "**Download ZIP**" in the right.
+
+You can also download just the slides in [pdf](https://github.com/VolosHack/Python-presentation/blob/develop/Python%20presentation.pdf?raw=true) or [odp](https://github.com/VolosHack/Python-presentation/blob/develop/Python%20presentation.odp?raw=true) format, see some [examples](examples) of Python code and practice with the [workshop](workshop) problems.
