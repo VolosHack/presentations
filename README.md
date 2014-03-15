@@ -1,4 +1,4 @@
 Python presentation
 ===
 
-The slides in odp and pdf formats, examples of Python code and some problems that can be used to practice.
+Download the slides in [pdf](Python%20presentation.pdf) and [odp](Python%20presentation.odp) formats, see [examples](examples) of Python code and practice with the [workshop](workshop) problems.
