@@ -36,4 +36,13 @@ past presentations
 
 Dimitrios Paraschas/Konstantinos Kanellis/Giorgos Gkougkoudis
 
-resources of the presentation: https://github.com/VolosHack/Python-presentation
+presentation resources: https://github.com/VolosHack/Python-presentation
+
+
+2014-02-15
+
+**Introduction to Git & GitHub**
+
+Konstantinos Kanellis
+
+presentation slides: https://pithos.grnet.gr/pithos/rest/kkanellis@uth.gr/files/git-final.pdf
