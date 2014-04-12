@@ -4,6 +4,12 @@ VolosHack
 planned presentations
 ---
 
+2014-05-03
+
+**The Ruby programming language**
+
+Theodoros Orfanidis
+
 
 presentation ideas and planning
 ---
