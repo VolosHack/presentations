@@ -8,7 +8,7 @@ planned presentations
 
 **The Ruby programming language**
 
-Theodoros Orfanidis
+by Theodoros Orfanidis
 
 
 presentation ideas and planning
@@ -16,12 +16,12 @@ presentation ideas and planning
 
 **Buffer Overflow Attacks & Protection Mechanisms**
 
-Michalis Spyrou
+by Michalis Spyrou
 
 
 **Java programming language/Android development and UTHportal client implementation**
 
-Nikos Sakellariou/Giorgos Gkougkoudis
+by Nikos Sakellariou/Giorgos Gkougkoudis
 
 
 **GUI programming/real life projects development**
@@ -30,19 +30,37 @@ Nikos Sakellariou/Giorgos Gkougkoudis
 past presentations
 ---
 
-2014-03-08
+2013-11-30
 
-**Python: the awesome programming language**
+**server setup**
 
-Dimitrios Paraschas/Konstantinos Kanellis/Giorgos Gkougkoudis
+by Dimitrios Paraschas
 
-presentation resources: https://github.com/VolosHack/Python-presentation
+[presentation tutorial](http://voloshack.tk/?p=67)
+
+
+2013-12-14
+
+**Ασφάλεια Δικτύων και Πληροφοριακών Συστημάτων**
+
+by Efi Bataka
+
+[presentation slides](presentations/δικτυων-και-πληροφοριακων-συστηματων.pptx)
 
 
 2014-02-15
 
 **Introduction to Git & GitHub**
 
-Konstantinos Kanellis
+by Konstantinos Kanellis
 
-presentation slides: https://pithos.grnet.gr/pithos/rest/kkanellis@uth.gr/files/git-final.pdf
+[presentation slides](presentations/git-final.pdf)
+
+
+2014-03-08
+
+**Python: the awesome programming language**
+
+by Dimitrios Paraschas/Konstantinos Kanellis/Georgios Gkougkoudis
+
+[presentation resources](https://github.com/VolosHack/Python-presentation)
