@@ -21,7 +21,7 @@ by Michalis Spyrou
 
 **Java programming language/Android development and UTHportal client implementation**
 
-by Nikos Sakellariou/Giorgos Gkougkoudis
+by Nikos Sakellariou and Georgios Gkougkoudis
 
 
 **GUI programming/real life projects development**
@@ -61,6 +61,6 @@ by Konstantinos Kanellis
 
 **Python: the awesome programming language**
 
-by Dimitrios Paraschas/Konstantinos Kanellis/Georgios Gkougkoudis
+by Dimitrios Paraschas, Konstantinos Kanellis, and Georgios Gkougkoudis
 
 [presentation resources](https://github.com/VolosHack/Python-presentation)
