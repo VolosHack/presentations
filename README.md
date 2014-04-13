@@ -45,7 +45,7 @@ by Dimitrios Paraschas
 
 by Efi Bataka
 
-[presentation slides](presentations/δικτυων-και-πληροφοριακων-συστηματων.pptx)
+[presentation slides](https://github.com/VolosHack/VolosHack/raw/formatting/presentations/%CE%B4%CE%B9%CE%BA%CF%84%CF%85%CF%89%CE%BD-%CE%BA%CE%B1%CE%B9-%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CE%B1%CE%BA%CF%89%CE%BD-%CF%83%CF%85%CF%83%CF%84%CE%B7%CE%BC%CE%B1%CF%84%CF%89%CE%BD.pptx)
 
 
 2014-02-15
@@ -54,7 +54,7 @@ by Efi Bataka
 
 by Konstantinos Kanellis
 
-[presentation slides](presentations/git-final.pdf)
+[presentation slides](https://github.com/VolosHack/VolosHack/raw/formatting/presentations/git-final.pdf)
 
 
 2014-03-08
