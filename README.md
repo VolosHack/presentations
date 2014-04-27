@@ -6,7 +6,7 @@ planned presentations
 
 2014-05-03
 
-**The Ruby programming language**
+**Ruby - A programmer's best friend**
 
 by Theodoros Orfanidis
 
