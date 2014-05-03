@@ -11,13 +11,15 @@ planned presentations
 by Theodoros Orfanidis
 
 
-presentation ideas and planning
----
+2014-05-10
 
 **Buffer Overflow Attacks & Protection Mechanisms**
 
 by Michalis Spyrou
 
+
+presentation ideas
+---
 
 **Java programming language/Android development and UTHportal client implementation**
 
