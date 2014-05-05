@@ -4,13 +4,6 @@ VolosHack
 planned presentations
 ---
 
-2014-05-03
-
-**Ruby - A programmer's best friend**
-
-by Theodoros Orfanidis
-
-
 2014-05-10
 
 **Buffer Overflow Attacks & Protection Mechanisms**
@@ -66,3 +59,12 @@ by Konstantinos Kanellis
 by Dimitrios Paraschas, Konstantinos Kanellis, and Georgios Gkougkoudis
 
 [presentation resources](https://github.com/VolosHack/Python-presentation)
+
+
+2014-05-03
+
+**Ruby - A programmer's best friend**
+
+by Theodoros Orfanidis
+
+[presentation slides](https://github.com/VolosHack/VolosHack/raw/formatting/presentations/VolosHack 3-5-2014 - Ruby, a programmer's best friend.pdf)
