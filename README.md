@@ -1,7 +1,7 @@
-VolosHack
+VolosHack presentations
 =========
 
-planned presentations
+planned
 ---
 
 2014-05-10
@@ -11,7 +11,7 @@ planned presentations
 by Michalis Spyrou
 
 
-presentation ideas
+ideas
 ---
 
 **Java programming language/Android development and UTHportal client implementation**
@@ -22,7 +22,7 @@ by Nikos Sakellariou and Georgios Gkougkoudis
 **GUI programming/real life projects development**
 
 
-past presentations
+past
 ---
 
 2013-11-30
