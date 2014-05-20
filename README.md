@@ -4,12 +4,6 @@ VolosHack presentations
 planned
 ---
 
-2014-05-10
-
-**Buffer Overflow Attacks & Protection Mechanisms**
-
-by Michalis Spyrou
-
 
 ideas
 ---
@@ -68,3 +62,12 @@ by Dimitrios Paraschas, Konstantinos Kanellis, and Georgios Gkougkoudis
 by Theodoros Orfanidis
 
 [presentation slides](https://github.com/VolosHack/VolosHack/raw/master/presentations/VolosHack 3-5-2014 - Ruby, a programmer's best friend.pdf)
+
+
+2014-05-17
+
+**Buffer Overflow Attacks & Protection Mechanisms**
+
+by Michalis Spyrou
+
+[presentation slides](https://github.com/VolosHack/VolosHack/raw/master/presentations/2014-05-17, Buffer Overflow Attacks & Protection Mechanisms, Michalis Spyrou.pdf)
