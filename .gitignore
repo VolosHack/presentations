@@ -1,7 +1,4 @@
 # .gitignore
-# Dimitrios Paraschas (paraschas@gmail.com)
 
 # Vim swap files
 *.swp
-
-#notes.txt
