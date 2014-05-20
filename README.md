@@ -34,7 +34,7 @@ by Dimitrios Paraschas
 
 by Efi Bataka
 
-[presentation slides](https://github.com/VolosHack/VolosHack/raw/master/presentations/%CE%B4%CE%B9%CE%BA%CF%84%CF%85%CF%89%CE%BD-%CE%BA%CE%B1%CE%B9-%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CE%B1%CE%BA%CF%89%CE%BD-%CF%83%CF%85%CF%83%CF%84%CE%B7%CE%BC%CE%B1%CF%84%CF%89%CE%BD.pptx)
+[presentation slides](https://github.com/VolosHack/presentations/raw/master/Networks and Information Systems Safety, Efi Bataka, 2013-12-14.pptx)
 
 
 2014-02-15
@@ -43,7 +43,7 @@ by Efi Bataka
 
 by Konstantinos Kanellis
 
-[presentation slides](https://github.com/VolosHack/VolosHack/raw/master/presentations/2014-02-15, Introduction to Git and GitHub, Konstantinos Kanellis.pdf)
+[presentation slides](https://github.com/VolosHack/presentations/raw/master/Introduction to Git and GitHub, Konstantinos Kanellis, 2014-02-15.pdf)
 
 
 2014-03-08
@@ -61,7 +61,7 @@ by Dimitrios Paraschas, Konstantinos Kanellis, and Georgios Gkougkoudis
 
 by Theodoros Orfanidis
 
-[presentation slides](https://github.com/VolosHack/VolosHack/raw/master/presentations/2014-05-03, Ruby, a programmer's best friend, Theodoros Orfanidis.pdf)
+[presentation slides](https://github.com/VolosHack/presentations/raw/master/Ruby, a programmer's best friend, Theodoros Orfanidis, 2014-05-03.pdf)
 
 
 2014-05-17
@@ -70,4 +70,4 @@ by Theodoros Orfanidis
 
 by Michalis Spyrou
 
-[presentation slides](https://github.com/VolosHack/VolosHack/raw/master/presentations/2014-05-17, Buffer Overflow Attacks & Protection Mechanisms, Michalis Spyrou.pdf)
+[presentation slides](https://github.com/VolosHack/presentations/raw/master/Buffer Overflow Attacks & Protection Mechanisms, Michalis Spyrou, 2014-05-17.pdf)
