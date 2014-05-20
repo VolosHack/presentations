@@ -43,7 +43,7 @@ by Efi Bataka
 
 by Konstantinos Kanellis
 
-[presentation slides](https://github.com/VolosHack/VolosHack/raw/master/presentations/git-final.pdf)
+[presentation slides](https://github.com/VolosHack/VolosHack/raw/master/presentations/2014-02-15, Introduction to Git and GitHub, Konstantinos Kanellis.pdf)
 
 
 2014-03-08
@@ -61,7 +61,7 @@ by Dimitrios Paraschas, Konstantinos Kanellis, and Georgios Gkougkoudis
 
 by Theodoros Orfanidis
 
-[presentation slides](https://github.com/VolosHack/VolosHack/raw/master/presentations/VolosHack 3-5-2014 - Ruby, a programmer's best friend.pdf)
+[presentation slides](https://github.com/VolosHack/VolosHack/raw/master/presentations/2014-05-03, Ruby, a programmer's best friend, Theodoros Orfanidis.pdf)
 
 
 2014-05-17
