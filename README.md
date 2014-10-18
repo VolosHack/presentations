@@ -5,17 +5,6 @@ planned
 ---
 
 
-ideas
----
-
-**Java programming language/Android development and UTHportal client implementation**
-
-by Nikos Sakellariou and Georgios Gkougkoudis
-
-
-**GUI programming/real life projects development**
-
-
 past
 ---
 
