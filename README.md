@@ -60,3 +60,12 @@ by Theodoros Orfanidis
 by Michalis Spyrou
 
 [presentation slides](https://github.com/VolosHack/presentations/raw/master/Buffer Overflow Attacks & Protection Mechanisms, Michalis Spyrou, 2014-05-17.pdf)
+
+
+2014-10-19
+
+**Linux Commands**
+
+by Aggelos Kyriakou
+
+[presentation slides](https://github.com/VolosHack/presentations/raw/master/Linux Commands, Aggelos Kyriakou, 2014-10-18.pdf)
