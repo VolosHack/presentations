@@ -69,3 +69,12 @@ by Michalis Spyrou
 by Aggelos Kyriakou
 
 [presentation slides](https://github.com/VolosHack/presentations/raw/master/Linux Commands, Aggelos Kyriakou, 2014-10-18.pdf)
+
+
+2014-11-01
+
+**Java**
+
+by Nikos Koxenoglou
+
+[presentation resources](https://github.com/VolosHack/presentations/tree/master/Java%2C%20Nikos%20Koxenoglou%2C%202014-11-01)
