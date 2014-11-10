@@ -1,12 +1,8 @@
 VolosHack presentations
 =========
 
-planned
----
+You can download all the files in this repository using the button "**Download ZIP**" to the right.
 
-
-past
----
 
 2013-11-30
 
@@ -41,7 +37,7 @@ by Konstantinos Kanellis
 
 by Dimitrios Paraschas, Konstantinos Kanellis, and Georgios Gkougkoudis
 
-[presentation resources](https://github.com/VolosHack/Python-presentation)
+[presentation resources](https://github.com/VolosHack/presentations/tree/master/Python%2C%20the%20awesome%20programming%20language%2C%20Dimitrios%20Paraschas%2C%202014-03-08)
 
 
 2014-05-03
